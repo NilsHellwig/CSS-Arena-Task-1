@@ -8,7 +8,6 @@ Erstelle eine CSS-Datei `styles.css`, die alle notwendigen Regeln enthält, um d
 
 ### Anforderungen:
 
-- Verwende ausschließlich CSS – keine Änderungen am HTML!
 - Achte auf:
   - Schriftarten und -größen
   - Farben (z.B. Linkfarbe, Zitatanzahl)
