@@ -1,22 +1,22 @@
-# CSS Arena – Aufgabe 1: Google Scholar
+# CSS Arena – Task 1: Google Scholar
 
-## Aufgabe
+## Task
 
-Erstelle eine CSS-Datei `styles.css`, die alle notwendigen Regeln enthält, um die Darstellung einer Artikelliste **exakt** wie im bereitgestellten Screenshot (`ziel.png`) umzusetzen.
+Create a CSS file `styles.css` that includes all the necessary rules to replicate the appearance of an article list **exactly** as shown in the provided screenshot (`ziel.png`).
 
-> ⚠️ Die HTML-Datei `index.html` ist **vorgegeben** und soll **nicht** verändert werden!
+> ⚠️ The HTML file `index.html` is **predefined** and must **not** be modified!
 
-### Anforderungen:
+### Requirements:
 
-- Achte auf:
-  - Schriftarten und -größen
-  - Farben (z.B. Linkfarbe, Zitatanzahl)
-  - Abstände zwischen den Elementen
-  - Formatierung der Autorenzeile und Quellenangabe
-  - Stil von Buttons wie „Speichern“ und Autorennamen
+- Pay attention to:
+  - Fonts and font sizes
+  - Colors (e.g., link color, citation count)
+  - Spacing between elements
+  - Formatting of the author line and source information
+  - Styling of buttons like "Save" and author names
 
-### Referenz:
+### Reference:
 
-<img src="ziel.png" alt="Zielansicht der Artikelliste" />
+<img src="ziel.png" alt="Target view of the article list" />
 
-Viel Erfolg! 💪
+Good luck! 💪
